@@ -1,0 +1,3 @@
+branch = feature/branch_name
+build_without_maven = false
+java_home = /Users/u763969/Library/Java/JavaVirtualMachines/graalvm-ce-22.0.2/Contents/Home
